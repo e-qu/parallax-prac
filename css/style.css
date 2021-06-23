@@ -1,0 +1,35 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#parallax_1{
+    background-image: url(https://wallpapercave.com/wp/wp2506797.jpg);
+}
+#parallax_2{
+    background-image: url(https://cdn.wallpapersafari.com/83/72/DU7VOk.png);
+}
+#parallax_3{
+    background-image: url(https://i.pinimg.com/originals/82/7b/70/827b700b4c9861ea748858e164cd4676.jpg);
+}
+#parallax_4{
+    background-image: url(https://cdn.shopify.com/s/files/1/0833/0609/collections/IMG_5884-2_1400x.jpg?v=1598888357);
+}
+.parallax_effect{
+    height: 1500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.parallax_wrapper{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    height: 500px;
+}
+.font_color{
+    color: white;
+}
+.footer_style{
+    background-color: black;
+}
